@@ -1,4 +1,4 @@
-# PZ_6
+# PZ6
 ## Задание 1 ##
 <img width="390" height="437" alt="Снимок экрана 2026-03-18 102839" src="https://github.com/user-attachments/assets/55001ffd-7f81-4982-860b-3a7cb2651fd1" />
 
